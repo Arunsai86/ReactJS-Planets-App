@@ -1,0 +1,15 @@
+.heading {
+  color: #ffffff;
+}
+.description {
+  color: #ffffff;
+}
+.image-size {
+  width: 40%;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
